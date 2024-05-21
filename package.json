@@ -1,0 +1,19 @@
+{
+  "name": "qa-app",
+  "version": "1.0.0",
+  "description": "QA application for test cases",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jbeltre/qa-app.git"
+  },
+  "author": "Julio Beltre",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jbeltre/qa-app/issues"
+  },
+  "homepage": "https://github.com/jbeltre/qa-app#readme"
+}

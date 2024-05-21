@@ -1,1 +1,1 @@
-"#qa-app" 
+#qa-app
